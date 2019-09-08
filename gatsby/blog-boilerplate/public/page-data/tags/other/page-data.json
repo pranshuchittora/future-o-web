@@ -1,0 +1,1 @@
+{"componentChunkName":"component---src-templates-single-tag-index-js","path":"/tags/other","webpackCompilationHash":"","result":{"pageContext":{"isCreatedByStatefulCreatePages":false,"posts":[{"frontmatter":{"path":"/second-post","title":"Second Post","tags":["that","other"]}},{"frontmatter":{"path":"/third-post","title":"Post C","tags":["this","other"]}}],"tagName":"other"}}}

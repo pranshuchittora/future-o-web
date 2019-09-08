@@ -1,0 +1,10 @@
+.header {
+  width: 100%;
+  padding: 1rem 0.5rem;
+  background: rgb(0, 0, 0);
+}
+
+.home-blog-list {
+  font-size: 2rem;
+  text-align: start;
+}
