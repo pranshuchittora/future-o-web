@@ -5,7 +5,7 @@ var app = express();
 app.use(cors());
 const POSTS = [
   {
-    title: "Something Special",
+    title: "Something Special by SRMKZILLA",
     content: "Awesome Night",
     img:
       "https://images.unsplash.com/photo-1567891428935-ae5ea5dee2bf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
